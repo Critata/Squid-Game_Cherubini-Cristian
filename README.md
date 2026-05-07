@@ -1,3 +1,5 @@
+> ## [Link al Sito Live](https://critata.github.io/Squid-Game_Cherubini-Cristian/)
+
 Questo è un sito web ispirato alla serie Netflix **Squid Game**, realizzato come progetto scolastico.
 
 * **Proprietà:** Tutti i diritti relativi a nomi, personaggi, loghi e immagini della serie "Squid Game" appartengono a **Netflix** e ai rispettivi creatori.
