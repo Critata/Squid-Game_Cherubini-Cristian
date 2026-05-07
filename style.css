@@ -150,7 +150,7 @@ body {
         border-radius: 15px;
         margin-bottom: 15px;
         width: 450px;
-        height: auto;
+        max-height: 400px;
     }
 
     /* Banner finale */
