@@ -5,7 +5,7 @@ body {
     }
 
     /* Nascondi scrollbar orizzontale */
-    teaser, episodi, personaggi-SquidGame::-webkit-scrollbar {
+    teaser, episodi, personaggi-SquidGame,::-webkit-scrollbar {
         display: none;
     }
     episodi, personaggi-SquidGame {
