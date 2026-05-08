@@ -111,7 +111,7 @@ body {
         justify-content: flex-end;
     }
 
-    .bottone-ritorno {
+    .bottone-ritorno, .bottone-spoiler {
         display: inline-block;
         background-color: transparent;
         color: #ed1b76;
@@ -127,7 +127,7 @@ body {
 
         text-decoration: none; /*rimuove la sottolineatura*/
     }
-    .bottone-ritorno:hover {
+    .bottone-ritorno:hover, .bottone-spoiler:hover {
         background-color: #ed1b76;
         color: white;
         transform: scale(1.10);
