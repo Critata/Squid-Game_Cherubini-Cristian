@@ -36,12 +36,18 @@ body {
         background-color: #2b2b2b; 
         padding: 20px; 
         border-radius: 15px; 
-        gap: 20px; 
+        gap: 30px; 
         margin-bottom: 30px; 
         height: 360px;
     }
     singolo-episodio img {
         border-radius: 10px;
+        transition: 0.4s;
+    }
+    singolo-episodio:hover {
+        transform: scale(1.10);
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
     iframe {
         width: 373px; height: 210px; /*grandezza video 1,2,3 stagione*/
