@@ -308,3 +308,14 @@ body {
         width: 30px; 
         height: 30px;
     }
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - /*
+
+    /* Six Seven */
+    .six-seven-img {
+        height: 800px;
+        border-radius: 15px;
+    }
+    .six-seven-img:hover {
+        content:url(https://i.ibb.co/m5yX6CGQ/Whats-App-Image-2026-05-16-at-22-49-35.jpg);
+    }
