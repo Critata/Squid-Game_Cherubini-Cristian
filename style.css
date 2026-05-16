@@ -313,7 +313,8 @@ body {
 
     /* Six Seven */
     .six-seven-img {
-        height: 800px;
+        height: 100vh;
+        width: auto;
         border-radius: 15px;
     }
     .six-seven-img:hover {
