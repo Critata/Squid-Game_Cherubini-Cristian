@@ -61,6 +61,29 @@ body {
         box-shadow: 0px 5px 35px rgb(237, 27, 118)
     }
 
+    .bottone-ritorno-spoiler {
+        background-color: #249f9c;
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+        font-weight: bold;
+        border: 2px solid transparent;
+        transition: all 0.4s;
+
+        text-transform: uppercase; /* trasforma il testo in MAIUSCOLO */
+
+        text-decoration: none; /*rimuove la sottolineatura*/
+        justify-content: flex-end;
+    }
+    .bottone-ritorno-spoiler:hover {
+        background-color: black;
+        border-color: #249f9c;
+        color: #249f9c;
+        transform: scale(1.10);
+        justify-content: flex-end;
+        box-shadow: 0px 5px 35px rgb(36, 159, 156)
+    }
+
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - /*
 
     /* Nascondi scrollbar orizzontale */
@@ -148,6 +171,12 @@ body {
         font-size: 20px;
         padding: 10px;
         border-radius: 10px;
+        transition: all 0.5s;
+    }
+    td:hover {
+        background-color: #1e8583;
+        border: #ed1b76 solid 2px;
+        box-shadow: 0px 5px 25px rgb(237, 27, 118);
     }
 
 
@@ -307,6 +336,10 @@ body {
     contatto img {
         width: 30px; 
         height: 30px;
+    }
+
+    li {
+        font-size: 10px;
     }
 
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - /*
